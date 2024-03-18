@@ -58,9 +58,9 @@ Please note that the latest MiDaS is also trained on KITTI and NYUv2, while we d
 
 | Method | Dataset | Pre-trained model|BTCV|
 
-| Method | Dataset | Pre-trained model | BTCV || Sintel || DDAD || ETH3D || DIODE ||
-|-|-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **VoCo** | 10k | [VoCo_10k.pt](https://www.dropbox.com/scl/fi/35ldfszlvw1ke4vr7xr5h/VoCo_10k.pt?rlkey=iu3muui9420soyjwlui79njmq&dl=0) | 85.89 |
+| Method | Dataset | Pre-trained model | BTCV |
+|-|-:|:-:|:-:|
+| **VoCo** | 10k | [VoCo_10k.pt](https://www.dropbox.com/scl/fi/35ldfszlvw1ke4vr7xr5h/VoCo_10k.pt?rlkey=iu3muui9420soyjwlui79njmq&dl=0)| 85.89 |
 
 We highlight the **best** and *second best* results in **bold** and *italic* respectively (**better results**: AbsRel $\downarrow$ , $\delta_1 \uparrow$).
 
