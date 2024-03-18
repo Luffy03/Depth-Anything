@@ -56,6 +56,10 @@ Please note that the latest MiDaS is also trained on KITTI and NYUv2, while we d
 | **Ours-B** | 97.5M | *0.080* | *0.939* | *0.046* | 0.979 | **0.432** | *0.756* | *0.232* | *0.786* | **0.126** | *0.884* | *0.069* | *0.946* |
 | **Ours-L** | 335.3M | **0.076** | **0.947** | **0.043** | **0.981** | *0.458* | **0.760** | **0.230** | **0.789** | *0.127* | 0.882 | **0.066** | **0.952** |
 
+| Method | Dataset | Pre-trained model| BTCV|
+|-|-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| **VoCo** | 10k | [VoCo_10k.pt](https://www.dropbox.com/scl/fi/35ldfszlvw1ke4vr7xr5h/VoCo_10k.pt?rlkey=iu3muui9420soyjwlui79njmq&dl=0) | 85.89 |
+
 We highlight the **best** and *second best* results in **bold** and *italic* respectively (**better results**: AbsRel $\downarrow$ , $\delta_1 \uparrow$).
 
 ## Pre-trained models
